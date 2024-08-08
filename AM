@@ -1,0 +1,55 @@
+<html - lang = "pt-br">
+<head>
+  <link rel="stylesheet" href = "style.css"/>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Mea+Culpa&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Mea+Culpa&family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap" rel="stylesheet">
+</head>
+  
+<body>
+ <header> Arctic Monkeys Songs </header>
+  <section class="entrada">
+    <div class = "primeiro">
+      <h3> I Wanna Be Yours - Arctic Monkeys </h3>
+        <p class = "descricao"> Arctic Monkeys é uma banda britânica de rock formada em 2002 nos subúrbios da cidade de Sheffield, na Inglaterra. O grupo é formado por Alex Turner (vocal, guitarra), Matt Helders (bateria, backing vocal), Jamie Cook (guitarra) e Nick O'Malley (baixo, backing vocal).</p>
+</div>
+    
+<div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nyuo9-OjNNg?si=V3sbRXdN-8A4jRmC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+    
+  </section>
+  <section class="outros">
+    <h3>Outros Destaques</h3>
+    <div class = "clipes">
+    <a href= "https://www.youtube.com/watch?v=6366dxFf-Os">
+      <img src="https://img.youtube.com/vi/6366dxFf-Os/maxresdefault.jpg"/>
+           </a>
+      
+      <a href= "https://www.youtube.com/watch?v=Nj8r3qmOoZ8">
+      <img src="https://img.youtube.com/vi/Nj8r3qmOoZ8/maxresdefault.jpg"/>
+           </a>
+      
+      <a href= "https://www.youtube.com/watch?v=71Es-8FfATo">
+      <img src="https://img.youtube.com/vi/71Es-8FfATo/maxresdefault.jpg"/>
+           </a>
+      
+       <a href= "https://www.youtube.com/watch?v=VQH8ZTgna3Q">
+      <img src="https://img.youtube.com/vi/VQH8ZTgna3Q/maxresdefault.jpg"/>
+           </a>
+      
+      <a href= "https://www.youtube.com/watch?v=qN7gSMPQFss">
+      <img src="https://img.youtube.com/vi/qN7gSMPQFss/maxresdefault.jpg"/>
+           </a>
+      
+      <a href= "https://www.youtube.com/watch?v=1tWFk8ojF4M">
+      <img src="https://img.youtube.com/vi/1tWFk8ojF4M/maxresdefault.jpg"/>
+           </a>
+    
+    </div>
+    </section>
+  </body>
+</html>
