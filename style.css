@@ -1,0 +1,57 @@
+body {
+  color: white;
+  background: black;
+  margin: 2px;
+}
+
+header {
+  font-size:60px;
+  color: white;
+  border-bottom: solid 2px white;
+  margin: 20px;
+  padding-bottom: 15px;
+  font-family: "Shadows Into Light", cursive;
+}
+
+.entrada {
+  font-family: "Poppins", sans-serif;
+  background: black;
+  margin: 20px;
+  padding: 30px;
+  font-size: 30px;
+  display: flex;
+}
+
+.descricao {
+  font-size: 20px;
+}
+
+.primeiro{
+  margin-right: 20px;
+}
+
+img{
+  height: 200px;
+}
+
+.clipes {
+  display: flex;
+  overflow: auto;
+  gap: 10px;
+}
+
+.outros {
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 30px;
+  font-family: "Poppins", sans-serif;
+}
+
+.outros img {
+  opacity: 0.5;
+}
+
+.outros img:hover {
+  opacity: 1.0;
+  border: solid 3px white;
+}
